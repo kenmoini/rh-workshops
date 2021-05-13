@@ -37,7 +37,7 @@ Red Hat OpenShift provides a Web UI Console that allows you to perform various t
 <p>Use the following details to log in:</p>
 <ul>
 <li><strong>Username:</strong> student{{< studentNumber >}}</li>
-<li><strong>Password:</strong> <em>Provided by workshop proctor</em></li>
+<li><strong>Password:</strong> <span class="generatedText workshopPassword studentPassword" data-original-text="Provided by workshop proctor">Provided by workshop proctor</span></li>
 </ul>
 
     

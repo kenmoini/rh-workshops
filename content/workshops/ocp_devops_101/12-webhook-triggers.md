@@ -101,7 +101,7 @@ Now that we've explored the built application, you might want to add a new scrip
     
     {{< leftStep size="7" >}}
       {{< figureImageSet >}}
-        {{< figureImage src="../img/ocpTriggeredBuild.jpg" title="Create a new HTML file under the scripts directory with a few paragraph tags" >}}
+        {{< figureImage src="../img/ocpTriggeredBuild.jpg" title="Watch the Builds progress" >}}
         {{< figureImage src="../img/ocpNewBuildComplete.jpg" title="Open the newly built and revised application with your recent changes!" >}}
       {{< /figureImageSet >}}
     {{< /leftStep >}}
