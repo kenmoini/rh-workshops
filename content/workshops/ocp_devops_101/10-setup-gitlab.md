@@ -33,7 +33,7 @@ We have a Cloud IDE generally set up and ready to roll, let's Setup our Gitlab u
     
     {{< leftStep size="7" >}}
       {{< figureImageSet >}}
-        {{< figureImage src="../img/gitLabUserSettingsDropdown.jpg" title="Click the User Avatar to expand the dropdown and click on 'Settings'" >}}
+        {{< figureImage src="../img/gitLabUserSettingsDropdown.jpg" title="Click the User Avatar to expand the dropdown and click on 'Preferences'" >}}
         {{< figureImage src="../img/gitLabUserSettings.jpg" title="Click 'SSH Keys' in the left-hand menu" >}}
         {{< figureImage src="../img/gitLabPasteInSSHKey.jpg" title="Paste in your Public SSH Key" >}}
         {{< figureImage src="../img/gitLabSSHKeyAdded.jpg" title="You should now see your stored Public Key" >}}
